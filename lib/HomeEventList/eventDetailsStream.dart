@@ -58,7 +58,7 @@ class EventDetailsState extends State<EventDetails> {
     return Scaffold(
       appBar: AppBar(
         //title: Text(eventObj.eventName),
-        title: Text(),
+        title: Text(''),
       ),
       body: Column(
         children: [
